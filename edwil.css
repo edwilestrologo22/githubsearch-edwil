@@ -1,0 +1,16 @@
+body {
+    background-color: brown;
+}
+nav .nav-wrapper {
+    position: relative;
+    height: 100%;
+    font-family: cursive;
+    font-weight: bolder;
+}
+.delete:hover{
+    font-size: 18px !important;
+    color: red  !important;
+}
+.card{
+    background-color: brown;
+}
